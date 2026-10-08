@@ -1,7 +1,7 @@
 
 https://github.com/user-attachments/assets/f348f644-5a53-44fe-9481-82e99b66612c
 
-*AquaTrack's 26-second sales film for Swedish boatyards, in Swedish. Every screen in it is the real app.*
+*AquaTrack's 24-second sales film for Swedish boatyards, in Swedish. Every screen in it is the real app.*
 
 # Volodymyr Petrunin
 
