@@ -1,4 +1,6 @@
-<img src="today.png" alt="AquaTrack's daily briefing for a boatyard owner: seven things need attention, the first a promise at risk" width="100%">
+https://github.com/user-attachments/assets/b0559cae-c1d2-44ad-a747-1234d70a43e2
+
+*AquaTrack's 26-second sales film for Swedish boatyards, in Swedish. Every screen in it is the real app, and the film and its music were written as code by an AI agent under my direction.*
 
 # Volodymyr Petrunin
 
