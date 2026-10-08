@@ -1,6 +1,7 @@
-https://github.com/user-attachments/assets/b0559cae-c1d2-44ad-a747-1234d70a43e2
 
-*AquaTrack's 26-second sales film for Swedish boatyards, in Swedish. Every screen in it is the real app, and the film and its music were written as code by an AI agent under my direction.*
+https://github.com/user-attachments/assets/f348f644-5a53-44fe-9481-82e99b66612c
+
+*AquaTrack's 26-second sales film for Swedish boatyards, in Swedish. Every screen in it is the real app.*
 
 # Volodymyr Petrunin
 
